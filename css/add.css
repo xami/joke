@@ -1,0 +1,18 @@
+.list-group li div div.footer{
+    margin-top: 10px;
+    color: #999999;
+}
+.list-group li div div.footer a{
+    height: 18px;
+    line-height: 18px;
+}
+
+.loading {
+    color:#303030;
+    font-size:20px;
+    padding:5px 10px;
+    text-align:center;
+    margin:0px auto;
+    display:none;
+    border-radius: 5px;
+}
