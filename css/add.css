@@ -16,3 +16,14 @@
     display:none;
     border-radius: 5px;
 }
+
+div.thumbnail p.info {
+    color: #999999;
+    margin-bottom: 1.5em;
+    text-indent: inherit;
+    margin-left: 1em;
+}
+#main{
+    min-height: 600px;
+    padding: 20px;
+}
